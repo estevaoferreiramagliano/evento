@@ -69,7 +69,7 @@ header nav ul li a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url("../img/banner.png") center/cover no-repeat;
+  background: url("img/banner.png") center/cover no-repeat;
 }
 #inicio .banner h1 {
   font-size: 4rem;
